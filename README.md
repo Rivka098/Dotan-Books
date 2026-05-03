@@ -14,9 +14,9 @@ This project demonstrates professional software engineering practices, including
 *   **RESTful API Design:** Seamless communication between C# and Angular.
 *   **Database Management:** Integration with **SQL Server** for persistent data storage.
 *   **Dependency Injection:** Utilizing .NET's built-in DI for cleaner, testable code.
-*   **Component Architecture:** Clean and reusable Angular components[cite: 2].
+*   **Component Architecture:** Clean and reusable Angular components.
 
 ## Technologies Used
-*   **Languages:** C#, TypeScript, HTML/CSS[cite: 2].
-*   **Frameworks:** .NET Core, Angular[cite: 2].
+*   **Languages:** C#, TypeScript, HTML/CSS.
+*   **Frameworks:** .NET Core, Angular.
 *   **Tools:** Git, VS Code / Visual Studio.
